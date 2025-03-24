@@ -1,6 +1,6 @@
 # Pocket Goo
 
-[WebUI Version: 0.10.10](https://github.com/StoicDreams/WebUI)
+[WebUI Version: 0.10.11](https://github.com/StoicDreams/WebUI)
 
 Need to flesh out concept for this website.
 
