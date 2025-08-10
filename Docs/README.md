@@ -2,7 +2,7 @@
 
 [Version: 0.1.4](https://github.com/StoicDreams/PocketGoo)
 
-[WebUI Version: 0.11.2](https://github.com/StoicDreams/WebUI)
+[WebUI Version: 0.11.3](https://github.com/StoicDreams/WebUI)
 
 Need to flesh out concept for this website.
 
