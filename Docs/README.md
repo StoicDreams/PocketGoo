@@ -1,6 +1,6 @@
 # Pocket Goo
 
-[Version: 0.1.21](https://github.com/StoicDreams/PocketGoo)
+[Version: 0.1.22](https://github.com/StoicDreams/PocketGoo)
 
 [WebUI](https://github.com/StoicDreams/WebUI)
 
